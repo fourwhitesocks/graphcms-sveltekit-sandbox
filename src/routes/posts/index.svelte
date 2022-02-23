@@ -26,6 +26,7 @@
 <p>stopped 1:04:40 mins in</p>
 
 <h1 class="text-4xl mb-10 font-extrabold">It Works For Me!</h1>
+<!-- You have access to below FROM the index.json.js query -->
 
 {#each posts as { title, slug, excerpt, coverImage, tags }}
   <div class="card text-center shadow-2xl mb-20">
