@@ -29,8 +29,6 @@
   <title>Amy Blog</title>
 </svelte:head>
 
-<p>stopped 1:04:40 mins in</p>
-
 <h1 class="text-4xl mb-10 font-extrabold">It Works For Me!</h1>
 
 {#each posts as { title, slug, excerpt, coverImage, tags }}
